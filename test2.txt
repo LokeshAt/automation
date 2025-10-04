@@ -1,4 +1,4 @@
-let name="swathi";
+let name="sathish";
 console.log(name.toUpperCase())
 let reverse= name.split('').reverse().join('');
 console.log(reverse)
